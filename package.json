@@ -1,0 +1,22 @@
+{
+  "name": "@larsthorup/inflate",
+  "version": "0.0.3",
+  "description": "type compressed-file | npx @larsthorup/inflate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsthorup/node-inflate-cli.git"
+  },
+  "author": "Lars Thorup <lars@zealake.com> (https://www.zealake.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larsthorup/node-inflate-cli/issues"
+  },
+  "homepage": "https://github.com/larsthorup/node-inflate-cli#readme",
+  "bin": {
+    "inflate": "./index.js"
+  }
+}
